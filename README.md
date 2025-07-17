@@ -1,4 +1,5 @@
 # Animated Website
+This is a personal animated website. It features a smooth scroll experience, animated elements, responsive design, and sections for showcasing my work and story.
 
 # Live Demo
 https://animatedwsite.netlify.app/ 
